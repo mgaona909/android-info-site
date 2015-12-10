@@ -1,1 +1,1 @@
-# Final Assignment for Fall 2015 CSE 322
+# Final Assignment for CSE 322 Fall 2015
